@@ -263,6 +263,11 @@ header {
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
+    height: 100px;
+    width: auto;
+    float: left;
+    margin-top: 20px;
+    
 }
 
 .logo {
